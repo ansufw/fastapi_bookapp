@@ -2,7 +2,10 @@ Book App with FastAPI
 
 # How to run the app
 - `uvicorn book:app --reload`
+- `uvicorn book2:app --reload`
 
+# How to open docs
+- `http://127.0.0.1:8000/docs`
 
 # Python Refresher
 
